@@ -17,7 +17,7 @@ Publish the repository root from the `main` branch in Settings → Pages. The in
 
 ## Content notes
 
-The main team projects are GrapeEngine / Echoes Below, Nookified and Newscape. Contribution summaries describe Dalton's work, not sole authorship of each project. Nookified is a demonstration prototype. Newscape's visual is a labelled system diagram.
+The main team projects are GrapeEngine / Echoes Below, Nookified and Beyond Us. Contribution summaries describe Dalton's work, not sole authorship of each project. Nookified is a demonstration prototype. Beyond Us is shown once as a featured project, with its gameplay recording.
 
 Videos are shortened or compressed copies of the supplied recordings. The original files are not changed. Beyond Us uses the full supplied 90-second showcase; Echoes Below and the simulation use excerpts. No video downloads until its viewer is opened.
 
